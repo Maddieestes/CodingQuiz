@@ -22,6 +22,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
 https://www.w3schools.com/js/js_timing.asp
 https://stackoverflow.com/questions/47918195/creating-a-basic-html-javascript-leaderboard
 https://www.w3schools.com/Js/js_json_parse.asp
-
+https://stackoverflow.com/questions/8685107/hiding-a-button-in-javascript
 License:
 MIT LICENSE
