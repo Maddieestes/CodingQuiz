@@ -57,7 +57,7 @@ function startQuiz() {
   hideCards();
   questionCard.removeAttribute("hidden");
 
-// Display the question on the page when the button is 
+// Display the question on the page when the button is clicked
   currentQuestion = 0;
   displayQuestion();
 
