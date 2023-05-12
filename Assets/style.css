@@ -1,0 +1,116 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0px;
+  }
+  
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #bb54c5;
+    color: #ffffff;
+    padding: 3vh;
+  }
+  
+  
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  p {
+    color: green;
+    font-size: 30px;
+  }
+  
+  /* button styling */
+  .button {
+    display: block;
+    color: #ffffff;
+    background-color: #bb54c5;
+    padding: 2vh;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+  }
+  
+  
+  .inline-buttons {
+    display: inline-flex;
+  }
+  
+  
+  
+  .card {
+    max-width: 80%;
+    margin-top: 15vh;
+    border-width: 2px;
+    padding: 5vw;
+  
+  }
+  
+  /* Start Card */
+  
+  #start-screen {
+    display: inline;
+    text-align: center;
+  }
+  
+  /* Question Card */
+  
+  .option-button {
+    width: 100%;
+    text-align: left;
+    margin: 5px;
+  }
+  
+  #result-div {
+    display: none;
+  }
+  
+  /* Score Card */
+  
+  .inline-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  #initials {
+    width: 25%;
+    margin: 8px;
+    padding: 1vh;
+  }
+  
+  /* Leaderboard */
+  
+  #back-button {
+    align-items: center;
+  }
+  
+  .highscore-list {
+    padding-inline-start: 20px;
+  }
+  
+  /* Media Queries */
+  
+  @media screen and (min-width: 850px) {
+    .card {
+      max-width: 680px;
+    }
+  }
+  
+  @media (hover) {
+  
+    a:hover {
+      color: #cbe1e0;
+    }
+  
+    button:hover {
+      background-color: rgba(255, 178, 212, 0.5);
+    }
+  }
