@@ -8,7 +8,8 @@ Application:
 
 Link:
 
-![Screenshot 2023-05-01 at 6 35 58 PM](https://github.com/Maddieestes/CodingQuiz/assets/129248476/c69514e2-0fd9-4657-a013-b8d70a29e294)
+![Web capture_11-5-2023_223223_](https://github.com/Maddieestes/CodingQuiz/assets/129248476/a70bbb79-a5bc-424a-a548-ad9d2fd46c44)
+
 
 
 Credits:
