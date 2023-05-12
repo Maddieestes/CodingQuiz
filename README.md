@@ -4,6 +4,7 @@ This project will test your coding knowledge! You answer the questions as fast a
 This project was definetly a challenge for me! I spent a lot of time researching how to make all these functions and elements work in javascript. I felt lost at times because I was starting from scratch to build this quiz; However after all the hard work I am happy to say that I have a site that works. I can honestly say that I was able to understand JS more in depth through this project.
 
 Application:
+https://maddieestes.github.io/CodingQuiz/
 
 
 Link:
@@ -21,3 +22,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
 https://www.w3schools.com/js/js_timing.asp
 https://stackoverflow.com/questions/47918195/creating-a-basic-html-javascript-leaderboard
 https://www.w3schools.com/Js/js_json_parse.asp
+
+License:
+MIT LICENSE
